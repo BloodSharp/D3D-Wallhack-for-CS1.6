@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1576308977 source:c:\users\aads_\documents\d3dwall\main.cpp
+	<windows.h>
+	"d3d.h"
+	"ddraw.h"
+
+901485354 c:\users\aads_\documents\d3dwall\d3d.h
+	<stdlib.h>
+	<objbase.h>
+	"d3dtypes.h"
+	"d3dcaps.h"
+
+1576308563 c:\users\aads_\documents\d3dwall\d3dtypes.h
+	<windows.h>
+	<float.h>
+	"ddraw.h"
+	"d3dvec.inl"
+
+901485356 c:\users\aads_\documents\d3dwall\ddraw.h
+	<objbase.h>
+
+1576308572 c:\users\aads_\documents\d3dwall\d3dcaps.h
+	"ddraw.h"
+
